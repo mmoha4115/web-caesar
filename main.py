@@ -4,6 +4,7 @@ app = Flask(__name__)
 app.config['DEBUG'] = True
 
 form =  """
+<!DOCTYPE html>
     <html>
     <head> 
         <style> 
