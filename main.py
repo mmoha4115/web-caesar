@@ -31,6 +31,7 @@ form =  """
     </head>
     <body>
         <form  action='/'  method='POST' >
+        <br>
             <label ><bold>Rotate by:</bold>
                 <input type='text' name='rot' value='0' />
             </label>
